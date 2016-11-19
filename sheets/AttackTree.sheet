@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Attack Tree</name>
+  <description>Attack Tree shapes by @michenriksen</description>
+  <contents>
+    <object name="Flowchart - Box">
+      <description>Leaf Node</description>
+    </object>
+    <object name="Attack Tree - AND Node">
+      <description>AND Node</description>
+    </object>
+    <object name="Attack Tree - OR Node">
+      <description>OR Node</description>
+    </object>
+  </contents>
+</sheet>

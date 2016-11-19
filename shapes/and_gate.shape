@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Attack Tree - AND Node</name>
+  <icon>and_gate.png</icon>
+  <connections>
+    <point x="6" y="4"/>
+    <point x="6" y="9"/>
+    <point x="5" y="9"/>
+    <point x="7" y="9"/>
+    <point x="6" y="7.75" main="yes"/>
+  </connections>
+  <aspectratio type="free" />
+  <textbox x1="2.0" y1="2.0" x2="10" y2="10" align="center"/>
+  <svg:svg>
+    <svg:path style="fill: background" d="M 6 4 C 8,4 8,7 8,9 C 7,9 5,9 4,9 C 4,7 4,4 6,4z"/>
+    <svg:path style="stroke-width: 0.1; stroke: foreground" d="M 6 4 C 8,4 8,7 8,9 C 7,9 5,9 4,9 C 4,7 4,4 6,4"/>
+  </svg:svg>
+  <default-width>5cm</default-width>
+  <default-height>4cm</default-height>
+</shape>
