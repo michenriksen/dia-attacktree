@@ -1,3 +1,15 @@
+--------------------
+--------------------
+--------------------
+
+<p align="center"><b>No Longer Maintained</b></p>
+
+<p align="center">I have released Data Flow Diagram and Attack Tree libraries for <a href="https://www.draw.io/">draw.io</a> which is much better than Dia. Please see <a href="http://michenriksen.com/blog/drawio-for-threat-modeling/">the blog post</a> for more information.</p>
+
+--------------------
+--------------------
+--------------------
+
 # Attack Tree shapes for [Dia](https://wiki.gnome.org/Apps/Dia)
 
 From [https://www.schneier.com/academic/archives/1999/12/attack_trees.html](https://www.schneier.com/academic/archives/1999/12/attack_trees.html):
